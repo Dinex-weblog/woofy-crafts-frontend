@@ -4,7 +4,7 @@
 
 A fully responsive, single-page e-commerce website for **Woofy Crafts**  a boutique handcrafted bouquet brand. Built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no build tools, no dependencies.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-c45c78?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-c45c78?style=for-the-badge&logo=google-chrome&logoColor=white)](https://woofy-crafts.pages.dev)
 [![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge)](#license)
 [![HTML](https://img.shields.io/badge/HTML5-Single%20File-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
 
