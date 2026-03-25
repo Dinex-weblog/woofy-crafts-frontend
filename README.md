@@ -2,7 +2,7 @@
 
 > **Handcrafted Blooms, Heartfelt Moments**
 
-A fully responsive, single-page e-commerce website for **Woofy Crafts** — a boutique handcrafted bouquet brand. Built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no build tools, no dependencies.
+A fully responsive, single-page e-commerce website for **Woofy Crafts**  a boutique handcrafted bouquet brand. Built with pure HTML, CSS, and vanilla JavaScript. No frameworks, no build tools, no dependencies.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-c45c78?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
 [![License](https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge)](#license)
