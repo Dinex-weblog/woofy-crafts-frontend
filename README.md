@@ -1,4 +1,4 @@
-# 🌸 Woofy Crafts
+# Woofy Crafts
 
 > **Handcrafted Blooms, Heartfelt Moments**
 
@@ -10,7 +10,7 @@ A fully responsive, single-page e-commerce website for **Woofy Crafts** — a bo
 
 ---
 
-## 📸 Preview
+## Preview
 
 | Hero Section | Products Grid | Custom Order Form |
 |:---:|:---:|:---:|
@@ -18,26 +18,26 @@ A fully responsive, single-page e-commerce website for **Woofy Crafts** — a bo
 
 ---
 
-## ✨ Features
+## Features
 
-- 🛒 **Shopping Cart** — Add, remove, update quantities with real-time total
-- 💖 **Wishlist** — Save favourites across the session
-- 🔍 **Search** — Instant keyword search across the product catalogue
-- 🎨 **Custom Order Form** — Full bouquet customisation (type, budget, occasion, colours, message)
-- 📱 **WhatsApp Chat Panel** — In-page WhatsApp-style widget with quick replies
-- 🌸 **Petal & Sparkle Animations** — Floating petal effects, cursor animations, click bursts
-- 📦 **Product Filtering & Sorting** — Filter by category, sort by price/name/featured
-- ⭐ **Customer Reviews** — Star-rated testimonial grid
-- 🖼️ **Instagram Gallery** — Showcase section linked to `@woofycrafts_hasii`
-- 📜 **Policy Modals** — Shipping, returns, and privacy policy in-page overlays
-- 👩‍🎨 **Founder Spotlight** — About Us section with bio and stats
-- 📣 **Announcement Bar** — Scrolling marquee for promotions
-- 🌙 **Dark Mode Support** — Automatic CSS variable theming
-- 📲 **Fully Responsive** — Mobile-first design with hamburger navigation
+-  **Shopping Cart** — Add, remove, update quantities with real-time total
+-  **Wishlist** — Save favourites across the session
+-  **Search** — Instant keyword search across the product catalogue
+-  **Custom Order Form** — Full bouquet customisation (type, budget, occasion, colours, message)
+-  **WhatsApp Chat Panel** — In-page WhatsApp-style widget with quick replies
+-  **Petal & Sparkle Animations** — Floating petal effects, cursor animations, click bursts
+-  **Product Filtering & Sorting** — Filter by category, sort by price/name/featured
+-  **Customer Reviews** — Star-rated testimonial grid
+-  **Instagram Gallery** — Showcase section linked to `@woofycrafts_hasii`
+-  **Policy Modals** — Shipping, returns, and privacy policy in-page overlays
+-  **Founder Spotlight** — About Us section with bio and stats
+-  **Announcement Bar** — Scrolling marquee for promotions
+-  **Dark Mode Support** — Automatic CSS variable theming
+-  **Fully Responsive** — Mobile-first design with hamburger navigation
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 woofy-crafts/
@@ -52,7 +52,7 @@ woofy-crafts/
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 No build step needed. Just open the file in a browser:
 
@@ -75,7 +75,7 @@ code .
 
 ---
 
-## 🛠️ Customisation
+##  Customisation
 
 All content, colours, and products are configured directly inside `index.html`.
 
@@ -89,11 +89,11 @@ All content, colours, and products are configured directly inside `index.html`.
 | Logo image | `<img id="nav-logo-img" src="...">` |
 | Announcement bar | `#announce-bar` section |
 
-> 📖 See [`docs/CUSTOMIZATION.md`](docs/CUSTOMIZATION.md) for a full step-by-step guide.
+>  See [`docs/CUSTOMIZATION.md`](docs/CUSTOMIZATION.md) for a full step-by-step guide.
 
 ---
 
-## 🌐 Deployment
+##  Deployment
 
 This site can be deployed for **free** on any static hosting platform:
 
@@ -104,11 +104,11 @@ This site can be deployed for **free** on any static hosting platform:
 | **Vercel** | `vercel --prod` from the project folder |
 | **Cloudflare Pages** | Connect repo → Framework: None → Build: skip |
 
-> 📖 See [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md) for detailed instructions.
+>  See [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md) for detailed instructions.
 
 ---
 
-## 📋 Sections Overview
+##  Sections Overview
 
 | Section | ID | Description |
 |---|---|---|
@@ -128,7 +128,7 @@ This site can be deployed for **free** on any static hosting platform:
 
 ---
 
-## 🎨 Colour Palette
+##  Colour Palette
 
 | Variable | Value | Usage |
 |---|---|---|
@@ -140,7 +140,7 @@ This site can be deployed for **free** on any static hosting platform:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Here's how:
 
@@ -152,18 +152,18 @@ Contributions are welcome! Here's how:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 👩‍🌸 About the Brand
+## About the Brand
 
 **Woofy Crafts** is a Sri Lanka-based handcrafted bouquet brand specialising in floral arrangements for weddings, anniversaries, graduations, and all of life's special moments. Every piece is made by hand with love.
 
-📸 Instagram: [@woofycrafts_hasii](https://instagram.com/woofycrafts_hasii)
+ Instagram: [@woofycrafts_hasii](https://instagram.com/woofycrafts_hasii)
 
 ---
 
-<p align="center">Made with 💖 and 🌸 by Woofy Crafts</p>
+<p align="center">Made by ByteArrays</p>
