@@ -14,7 +14,7 @@ A fully responsive, single-page e-commerce website for **Woofy Crafts** — a bo
 
 | Hero Section | Products Grid | Custom Order Form |
 |:---:|:---:|:---:|
-| ![](hero.png) | ![](products.png) | ![](custom-order.png) |
+| ![](hero.png) | ![](products.png) | ![](order.png) |
 
 ---
 
